@@ -4,7 +4,7 @@
 <div>
   <span>🏠 Ho Chi Minh, Vietnam</span>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <span>📱 <a href="tel:0363091909">0363091909</a><span>
+  <span>👨‍💼 Senior Software Engineer<span>
 </div>
 <div>
   <span>📫 <a href="mailto:vanthieunguyen234@gmail.com">vanthieunguyen234@gmail.com</a></span>
