@@ -18,4 +18,5 @@
   <img width="954" alt="image" src="https://github.com/user-attachments/assets/b3d5a593-8c6f-4586-937f-5168705df931" />
 </div>
 <br/>
-📄 [**My Resume**](https://vanthieu97.github.io/my-profile)  
+
+🔗 [**My Resume**](https://vanthieu97.github.io/my-profile)  
