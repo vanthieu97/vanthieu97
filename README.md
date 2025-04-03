@@ -14,5 +14,8 @@
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=vanthieu97&theme=dark&border_radius=8" alt="GitHub Streak" />  
 </p>
 <br/>
-
+<div align="center">
+  <img width="954" alt="image" src="https://github.com/user-attachments/assets/b3d5a593-8c6f-4586-937f-5168705df931" />
+</div>
+<br/>
 📄 [**My Resume**](https://vanthieu97.github.io/my-profile)  
