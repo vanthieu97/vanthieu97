@@ -19,4 +19,4 @@
 </div>
 <br/>
 
-🔗 [**My Resume**](https://vanthieu97.github.io/my-profile)  
+🔗 [**My Resume**]([https://vanthieu97.github.io/my-profile](https://drive.google.com/file/d/1IPfhtWL6lAgXcsnqJ1Ov__LvdaojVl8u/view?usp=drive_link))  
